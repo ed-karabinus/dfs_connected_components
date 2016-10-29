@@ -1,5 +1,5 @@
 ## DFS: Connected Cell in a Grid
-(Prompt from https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid.
+(Prompt and test cases from https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid.
 
 I did not write the main method, which was provided by the author of this problem on HackerRank. I did write the three other methods which comprise the algorithm, which are getBiggestRegion(), pushCoordinates(), and dfsFromVertex().)
 
